@@ -1,0 +1,1 @@
+"..\jdk-17.0.1\bin\java.exe" -jar Geyser-Standalone.jar nogui
