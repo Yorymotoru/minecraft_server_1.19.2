@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/barrel",
+  "textures": {
+    "side": "optifine/textures/block/stripped_oak_log_side",
+    "bottom": "optifine/textures/block/stripped_oak_log_side",
+    "top": "optifine/textures/block/stripped_oak_log_cabinet_2_item"
+  }
+}
