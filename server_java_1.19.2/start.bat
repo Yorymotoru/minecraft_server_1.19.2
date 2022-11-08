@@ -1,0 +1,1 @@
+"..\jdk-17.0.1\bin\java.exe" -jar server_1.19.2.jar nogui

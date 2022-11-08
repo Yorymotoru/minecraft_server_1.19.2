@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "6d2504a6-4ad3-4fec-9ef7-0ec52fb34f7b",
+    "name": "Yorymot",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "232dad69-5453-3d79-b375-effee8903c69",
+    "name": "yorymotoru",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "46a80a4b-edf5-3896-a921-033be60c2809",
+    "name": "Retribution169",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e6603e30-bb3e-3418-8b53-22c3522dabf3",
+    "name": "Yorymot",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "48c4a3c4-e5d5-4fd6-a50f-3fb3ea8295f6",
+    "name": "Retribution169",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
